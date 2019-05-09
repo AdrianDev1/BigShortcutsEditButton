@@ -1,0 +1,9 @@
+Package: com.adriandev.bigshortcutseditbutton
+Name: BigShortcutsEditButton
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Increases the size of the (...) edit button in Shortcuts
+Maintainer: AdrianDev
+Author: AdrianDev
+Section: Tweaks
